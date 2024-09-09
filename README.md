@@ -29,16 +29,10 @@ set up your description text for the categories you need to categorize and run t
 
 
 ```
-if args.task == 'task_1_tumor_vs_normal':
-    args.n_classes=2
-    dataset = Generic_MIL_Dataset(csv_path = 'dataset_csv/NETvsCRC.csv',
-                            data_dir= os.path.join(args.data_root_dir, 'tumor_vs_normal_feat_resnet'),
-                            shuffle = False, 
-                            seed = args.seed, 
-                            print_info = True,
-                            label_dict = {'NET':0, 'CRC':1},
-                            label_col = 'label',
-                            ignore=[])
+net_des = tokenizer("CLASS A'S DESCRIPTION.")
+
+crc_des = tokenizer("CLASS B'S DESCRIPTION.")
+
 ```
 
 ```
