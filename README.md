@@ -27,7 +27,7 @@ use CLAM to segment the WHOLE SLIDE IMAGE and extract the features, note that th
 
 set up your description text for the categories you need to categorize and run topk_h5_pt.py to extract the relevant features.
 
-'''
+'''python
 python topk_h5_pt.py
 '''
 
