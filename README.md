@@ -12,10 +12,10 @@ Abstract:
 
 First clone the repo and cd into the directory:
 
-'''
+···
 https://github.com/LexieK7/wsi_text.git
 cd wsi_text
-'''
+···
 
 Then create a conda env and install the dependencies:
 
