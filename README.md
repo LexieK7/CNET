@@ -21,9 +21,9 @@ Then create a conda env and install the dependencies:
 
 See CLAM.(https://github.com/mahmoodlab/CLAM)
 
-### 2. Using QUILTNET(https://github.com/wisdomikezogwo/quilt1m) as Pretrained Encoders
+### 2. Using QUILTNET as Pretrained Encoders
 
-use CLAM to segment the WHOLE SLIDE IMAGE and extract the features, note that the encoder we use is Quiltnet (other visual language foundation models are also possible).
+use CLAM to segment the WHOLE SLIDE IMAGE and extract the features, note that the encoder we use is Quiltnet(https://github.com/wisdomikezogwo/quilt1m) (other visual language foundation models are also possible).
 
 set up your description text for the categories you need to categorize and run topk_h5_pt.py to extract the relevant features.
 
