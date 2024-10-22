@@ -1,0 +1,413 @@
+case_id,slide_id,label
+patient_0,190086,NET
+patient_1,399988,NET
+patient_2,402638,NET
+patient_3,403236,NET
+patient_4,406873,NET
+patient_5,415093,NET
+patient_6,424096,NET
+patient_7,428082,NET
+patient_8,433550,NET
+patient_9,434168,NET
+patient_10,436881,NET
+patient_11,442444,NET
+patient_12,444434,NET
+patient_13,444457,NET
+patient_14,445234,NET
+patient_15,445554,NET
+patient_16,445938,NET
+patient_17,449435,NET
+patient_18,452918,NET
+patient_19,452938,NET
+patient_20,459564,NET
+patient_21,462886,NET
+patient_22,462984,NET
+patient_23,464528,NET
+patient_24,465489,NET
+patient_25,466976,NET
+patient_26,466979,NET
+patient_27,469258,NET
+patient_28,470400,NET
+patient_29,471083,NET
+patient_30,479413,NET
+patient_31,480622,NET
+patient_32,483192,NET
+patient_33,484620,NET
+patient_34,489200,NET
+patient_35,489200_1,NET
+patient_36,492997,NET
+patient_37,498850,NET
+patient_38,499135,NET
+patient_39,499864,NET
+patient_40,500669,NET
+patient_41,502720,NET
+patient_42,502875,NET
+patient_43,503695,NET
+patient_44,503742,NET
+patient_45,506851,NET
+patient_46,510079,NET
+patient_47,510495,NET
+patient_48,512015,NET
+patient_49,514314,NET
+patient_50,514682,NET
+patient_51,514865,NET
+patient_52,516877,NET
+patient_53,517490,NET
+patient_54,518167,NET
+patient_55,518167_1,NET
+patient_56,518667,NET
+patient_57,519211,NET
+patient_58,525263,NET
+patient_59,526213,NET
+patient_60,527830-19,NET
+patient_61,527969,NET
+patient_62,533064,NET
+patient_63,536596,NET
+patient_64,536596_1,NET
+patient_65,540760,NET
+patient_66,543069,NET
+patient_67,543544,NET
+patient_68,546209,NET
+patient_69,547310,NET
+patient_70,547403,NET
+patient_71,547713,NET
+patient_72,550834,NET
+patient_73,552329,NET
+patient_74,552992,NET
+patient_75,556672,NET
+patient_76,559869,NET
+patient_77,560484,NET
+patient_78,560859,NET
+patient_79,561751,NET
+patient_80,565380,NET
+patient_81,567160,NET
+patient_82,567425,NET
+patient_83,567425_1,NET
+patient_84,568964,NET
+patient_85,570239,NET
+patient_86,571004,NET
+patient_87,571004_1,NET
+patient_88,571910,NET
+patient_89,580737-2,NET
+patient_90,581219-3,NET
+patient_91,583227-1,NET
+patient_92,583429-10,NET
+patient_93,588185-5,NET
+patient_94,596657-1,NET
+patient_95,596688-1,NET
+patient_96,601301-1,NET
+patient_97,610988-4,NET
+patient_98,612317-1,NET
+patient_99,615050-2,NET
+patient_100,621262-2,NET
+patient_130,443844-0(3),CRC
+patient_131,443846-0(3),CRC
+patient_132,443848-0(3),CRC
+patient_133,444117-0(2),CRC
+patient_134,444233-0(3),CRC
+patient_135,444370-0(3),CRC
+patient_136,444529-0(3),CRC
+patient_137,445207-0,CRC
+patient_138,445731-0(2),CRC
+patient_139,445937-0(3),CRC
+patient_140,447046-0(2),CRC
+patient_141,447340-0(2),CRC
+patient_142,448803-0(2),CRC
+patient_143,448846-0(3),CRC
+patient_144,448860-0,CRC
+patient_145,448993-0(2),CRC
+patient_146,449287-0(2),CRC
+patient_147,449350-0(2),CRC
+patient_148,449581-0(2),CRC
+patient_149,450849-0(2),CRC
+patient_150,451002-0(3),CRC
+patient_151,451003-0(2),CRC
+patient_152,451073-0(3),CRC
+patient_153,451173-0(3),CRC
+patient_154,451198-0(2),CRC
+patient_155,451236-0(3),CRC
+patient_156,451644-0(2),CRC
+patient_157,451738-0(2),CRC
+patient_158,451780-0(2),CRC
+patient_159,451912-0(3),CRC
+patient_160,451916-0(2),CRC
+patient_161,451921-0(2),CRC
+patient_162,452092-0(2),CRC
+patient_163,452191-0(2),CRC
+patient_164,452323-0(3),CRC
+patient_165,452501-0(2),CRC
+patient_166,452639-0 (3),CRC
+patient_167,453118-0 (2),CRC
+patient_168,453294-0 (2),CRC
+patient_169,453962-0 (4),CRC
+patient_170,454053-0 (2),CRC
+patient_171,454316-0 (2),CRC
+patient_172,454637-0 (4),CRC
+patient_173,454709-0 (3),CRC
+patient_174,454945-0 (2),CRC
+patient_175,454947-0 (3),CRC
+patient_176,455347-0 (2),CRC
+patient_177,455915-0 (2),CRC
+patient_178,456340-0 (3),CRC
+patient_179,456342-0 (2),CRC
+patient_180,456536-0 (4),CRC
+patient_181,456537-0 (3),CRC
+patient_182,456554-0 (2),CRC
+patient_183,456565-0 (2),CRC
+patient_184,456567-0 (3),CRC
+patient_185,456600-0,CRC
+patient_186,456693-0 (2),CRC
+patient_187,456731-0 (3),CRC
+patient_188,457026-0 (2),CRC
+patient_189,457060-0 (2),CRC
+patient_190,457110-0 (3),CRC
+patient_191,457216-0 (2),CRC
+patient_192,457412-0 (3),CRC
+patient_193,457545-0 (3),CRC
+patient_194,457681-0 (2),CRC
+patient_195,458096-0 (2),CRC
+patient_196,458273-0 (4),CRC
+patient_197,458729-1l,CRC
+patient_198,459123-0,CRC
+patient_199,459178-0 (2),CRC
+patient_200,459231-0 (4),CRC
+patient_201,459425-0,CRC
+patient_202,459518-0 (3),CRC
+patient_203,459689-0 (2),CRC
+patient_204,459936-0 (2),CRC
+patient_205,460092-0 (2),CRC
+patient_206,460109-0,CRC
+patient_207,460180-0 (2),CRC
+patient_208,460319-0 (2),CRC
+patient_209,460464-0 (2),CRC
+patient_210,460561-0 (3),CRC
+patient_211,460708-0 (2),CRC
+patient_212,460709-0 (2),CRC
+patient_213,460907-0 (2),CRC
+patient_214,460958-0 (2),CRC
+patient_215,461065-0 (2),CRC
+patient_216,461403-0,CRC
+patient_217,462039-0 (2),CRC
+patient_218,462043-0 (2),CRC
+patient_219,462117-0 (4),CRC
+patient_220,462483-0 (2),CRC
+patient_221,462561-0 (2),CRC
+patient_222,462605-0 (3),CRC
+patient_223,462668-0 (3),CRC
+patient_224,463106-0 (4),CRC
+patient_225,463278-0 (2),CRC
+patient_226,463304-0 (2),CRC
+patient_227,463499-0 (2),CRC
+patient_228,463623-0 (3),CRC
+patient_229,463624-0 (2),CRC
+patient_230,464354-0 (2),CRC
+patient_231,464380-0 (3),CRC
+patient_232,464408-0 (2),CRC
+patient_233,464735-0 (2),CRC
+patient_234,464884-0 (2),CRC
+patient_235,465200-0 (3),CRC
+patient_236,465636-0 (2),CRC
+patient_237,465760-0 (3),CRC
+patient_238,465833-0 (3),CRC
+patient_239,465860-0 (2),CRC
+patient_240,465947-0 (3),CRC
+patient_241,466528-0 (4),CRC
+patient_242,466550-0 (2),CRC
+patient_243,466978-0 (2),CRC
+patient_244,466979-0 (2),CRC
+patient_245,467208-0 (3),CRC
+patient_246,467455-0 (2),CRC
+patient_247,467533-0 (2),CRC
+patient_248,467601-0 (4),CRC
+patient_249,467836-0 (2),CRC
+patient_250,467861-0 (2),CRC
+patient_251,467862-0 (3),CRC
+patient_252,467863-0 (2),CRC
+patient_253,468312-0 (2),CRC
+patient_254,468355-0 (2),CRC
+patient_255,468389-0 (2),CRC
+patient_256,468636-0 (2),CRC
+patient_257,469083-0 (2),CRC
+patient_258,469127-0 (2),CRC
+patient_259,469314-0 (3),CRC
+patient_260,469340-0 (4),CRC
+patient_261,469590-0,CRC
+patient_262,469630-0,CRC
+patient_263,470283-0 (2),CRC
+patient_264,470284-0 (3),CRC
+patient_265,470285-0 (2),CRC
+patient_266,471485-0 (2),CRC
+patient_267,471487-0 (2),CRC
+patient_268,471710-0 (2),CRC
+patient_269,471809-0 (4),CRC
+patient_270,471917-0 (3),CRC
+patient_271,472125-0 (2),CRC
+patient_272,472210-0 (2),CRC
+patient_273,472317-0 (2),CRC
+patient_274,472344-0 (2),CRC
+patient_275,472472-0 (2),CRC
+patient_276,472537-0 (3),CRC
+patient_277,472612-0 (3),CRC
+patient_278,472784-0 (4),CRC
+patient_279,473011-0 (2),CRC
+patient_280,473013-0 (2),CRC
+patient_281,473177-0 (2),CRC
+patient_282,473293-0 (3),CRC
+patient_283,473346-0 (3),CRC
+patient_284,473348-0 (2),CRC
+patient_285,473370-0 (2),CRC
+patient_286,473422-0 (3),CRC
+patient_287,474037-0 (2),CRC
+patient_288,474184-0 (3),CRC
+patient_289,474216-0 (2),CRC
+patient_290,474267-0 (3),CRC
+patient_291,474268-0 (2),CRC
+patient_292,474642-0 (2),CRC
+patient_293,474692-0 (2),CRC
+patient_294,475081-0 (2),CRC
+patient_295,475102-0 (2),CRC
+patient_296,475213-0 (3),CRC
+patient_297,476068-0 (2),CRC
+patient_298,476136-0 (2),CRC
+patient_299,476752-0 (2),CRC
+patient_300,476754-0 (3),CRC
+patient_301,476818-0 (2),CRC
+patient_302,476819-0 (2),CRC
+patient_303,476891-0 (2),CRC
+patient_304,477288-0 (2),CRC
+patient_305,477662-0 (2),CRC
+patient_306,477663-0 (3),CRC
+patient_307,477682-0 (2),CRC
+patient_308,477684-0 (2),CRC
+patient_309,477710-0 (2),CRC
+patient_310,477735-0 (2),CRC
+patient_311,477740-0 (3),CRC
+patient_312,477742-0 (2),CRC
+patient_313,477836-0 (2),CRC
+patient_314,477898-0 (2),CRC
+patient_315,477942-0 (2),CRC
+patient_316,478152-0 (2),CRC
+patient_317,478244-0 (3),CRC
+patient_318,478661-0 (2),CRC
+patient_319,478942-0 (3),CRC
+patient_320,479379-0 (2),CRC
+patient_321,479954-0 (2),CRC
+patient_322,480059-0 (3),CRC
+patient_323,480270-0 (2),CRC
+patient_324,480271-0 (2),CRC
+patient_325,480348-0 (2),CRC
+patient_326,480646-0,CRC
+patient_327,480837-0 (3),CRC
+patient_328,481004-0 (2),CRC
+patient_329,481165-0 (2),CRC
+patient_330,481457-0 (4),CRC
+patient_331,481551-0 (3),CRC
+patient_332,481822-0 (3),CRC
+patient_333,481901-0 (2),CRC
+patient_334,481912-0,CRC
+patient_335,481933-0 (3),CRC
+patient_336,481989-0 (2),CRC
+patient_337,482015-0,CRC
+patient_338,482198-0 (3),CRC
+patient_339,482233-0 (3),CRC
+patient_340,482262-0 (2),CRC
+patient_341,482301-0 (2),CRC
+patient_342,482493-0 (4),CRC
+patient_343,482581-0 (3),CRC
+patient_344,483062-0 (2),CRC
+patient_345,483271-0 (2),CRC
+patient_346,483444-0 (3),CRC
+patient_347,483580-0 (2),CRC
+patient_348,483581-0 (3),CRC
+patient_349,483851-0 (2),CRC
+patient_350,483884-0 (2),CRC
+patient_351,485097-0 (3),CRC
+patient_352,485100-0 (2),CRC
+patient_353,485228-0 (3),CRC
+patient_354,485233-0 (3),CRC
+patient_355,485401-0 (2),CRC
+patient_356,485443-0 (2),CRC
+patient_357,485923-0 (2),CRC
+patient_358,485938-0 (2),CRC
+patient_359,486116-0 (2),CRC
+patient_360,486160-0 (2),CRC
+patient_361,486161-0 (2),CRC
+patient_362,486185-0 (3),CRC
+patient_363,486450-0 (2),CRC
+patient_364,486710-0 (2),CRC
+patient_365,487360-0 (2),CRC
+patient_366,487419-0 (2),CRC
+patient_367,487994-0 (3),CRC
+patient_368,488219-0 (2),CRC
+patient_369,488501-0 (3),CRC
+patient_370,488773-0 (2),CRC
+patient_371,488788-0 (2),CRC
+patient_372,488805-0 (2),CRC
+patient_373,488866-0 (2),CRC
+patient_374,488908-0 (2),CRC
+patient_375,489020-0 (2),CRC
+patient_376,489315-0 (2),CRC
+patient_377,489450-0,CRC
+patient_378,489591-0 (2),CRC
+patient_379,489725-0 (3),CRC
+patient_380,489805-0 (2),CRC
+patient_381,489838-0 (3),CRC
+patient_382,490238-0 (2),CRC
+patient_383,490511-0 (2),CRC
+patient_384,490525-0 (2),CRC
+patient_385,490556-0 (2),CRC
+patient_386,490609-0 (2),CRC
+patient_387,490936-0 (3),CRC
+patient_388,490962-0 (4),CRC
+patient_389,491104-0 (2),CRC
+patient_390,491268-0 (2),CRC
+patient_391,491700-0 (2),CRC
+patient_392,491754-0 (2),CRC
+patient_393,491899-0 (2),CRC
+patient_394,492086-0 (3),CRC
+patient_395,492952-0(3),CRC
+patient_396,493000-0(3),CRC
+patient_397,493016-0(2),CRC
+patient_398,493047-0(2),CRC
+patient_399,493127-0(2),CRC
+patient_400,493546-0(2),CRC
+patient_401,493908-0(2),CRC
+patient_402,493909-0(2),CRC
+patient_403,493911-0(2),CRC
+patient_404,493915-0(2),CRC
+patient_405,493965-0(2),CRC
+patient_406,494602-0(4),CRC
+patient_407,494651-0(2),CRC
+patient_408,495063-0(2),CRC
+patient_409,495068-0(2),CRC
+patient_410,495220-0(4),CRC
+patient_411,495221-0(2),CRC
+patient_412,495317-0(3),CRC
+patient_413,495584-0(2),CRC
+patient_414,495701-0(4),CRC
+patient_415,496234-0(3),CRC
+patient_416,496236-0(2),CRC
+patient_417,496301-0(4),CRC
+patient_418,496308-0(4),CRC
+patient_419,496397-0(2),CRC
+patient_420,496462-0(3),CRC
+patient_421,496766-0(3),CRC
+patient_422,496849-0(2),CRC
+patient_423,497914-0(3),CRC
+patient_424,498844-0(2),CRC
+patient_425,499154-0(2),CRC
+patient_426,499409-0(3),CRC
+patient_427,499437-0(2),CRC
+patient_428,499613-0(3),CRC
+patient_429,499662-0(2),CRC
+patient_430,499899-0(4),CRC
+patient_431,499948-0(2),CRC
+patient_432,500269-0(3),CRC
+patient_433,500467-0(3),CRC
+patient_434,500858-0(2),CRC
+patient_435,500948-0(3),CRC
+patient_436,501138-0(2),CRC
+patient_437,501189-0(2),CRC
+patient_438,501900-0(3),CRC
+patient_439,502116-0,CRC
+patient_440,502228-0(2),CRC
