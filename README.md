@@ -1,4 +1,6 @@
-# Deep Learning Model with Pathological Knowledge for Detection of Colorectal Neuroendocrine Tumor
+# Deep learning model with pathological knowledge for detection of colorectal neuroendocrine tumor
+### Cell reports Medicine [Journal Link](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00532-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379124005329%3Fshowall%3Dtrue)
+
 =============
 
 ## 
@@ -75,3 +77,13 @@ python topk_h5_pt.py
 ## Reference
 
 If you find our work useful in your research or if you use parts of this code please consider citing our paper:
+
+@article{zheng2024deep,
+  title={Deep learning model with pathological knowledge for detection of colorectal neuroendocrine tumor},
+  author={Zheng, Ke and Duan, Jinling and Wang, Ruixuan and Chen, Haohua and He, Haiyang and Zheng, Xueyi and Zhao, Zihan and Jing, Bingzhong and Zhang, Yuqian and Liu, Shasha and others},
+  journal={Cell Reports Medicine},
+  volume={5},
+  number={10},
+  year={2024},
+  publisher={Elsevier}
+}
